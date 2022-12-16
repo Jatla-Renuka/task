@@ -32,7 +32,7 @@ alert("NOT ODD NUMBER");
 </script>
 
 </head>
-<body bgcolor='cyan'>
+<body bgcolor='blue'>
 <form>
 <center>
 <input type="text" id="t1" size=5><br>
